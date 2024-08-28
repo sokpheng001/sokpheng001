@@ -27,8 +27,9 @@
   - **Cloud**: AWS, Google cloud
   - **Databases**: MongoDB, PostgreSQL
 - **Security**
-  - **Tools**: namp, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
-  - **OSINT Tools**: netlas, maltego 
+  - **Tools**: nmap, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
+  - **OSINT Tools**: netlas, maltego
+  - **OWASP TOP 10**
   - **Report**
 - **Computer Networking**
   - **Basic Computer Network from CCNA**

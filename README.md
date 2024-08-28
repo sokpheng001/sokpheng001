@@ -1,16 +1,21 @@
-## Hi there 👋
+# This is sokpheng 👋
 
-<!--
-**sokpheng001/sokpheng001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills & Technologies
 
-Here are some ideas to get you started:
+- **Development**
+  - **Languages**: Python, Java, C++
+  - **Frameworks**: ReactJS, NextJS, Spring Boot, FastAPI
+  - **Deployment Tools**: Docker, Jenkins, SonarQube, Gradle
+  - **Cloud**: AWS, Google cloud
+  - **Databases**: MongoDB, PostgreSQL
+- **Security**
+  - **Tools**: namp, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
+  - **Report**
+- **Computer Networking**
+  - **Basic Computer Network from CCNA**
+  - **Network for interprise from CCNA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Get in Touch
+- LinkedIn: [kim-chansokpheng-linkedin](https://www.linkedin.com/in/kim-chansokpheng-6b6513267/)
+- Portfolio: [Cybersecurity Team](https://cyber-stad.vercel.app/)

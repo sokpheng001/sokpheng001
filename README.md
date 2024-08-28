@@ -7,7 +7,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - **Development**
   - **Languages**: Python, Java, C++
-  - **Frameworks**: ReactJS, NextJS, Spring Boot, FastAPI
+  - **Frameworks**:
+    - **Frontend**: ReactJS, NextJS, Flutter
+    - **Backend**: Spring Boot, FastAPI
   - **Deployment Tools**: Docker, Jenkins, SonarQube, Gradle
   - **Cloud**: AWS, Google cloud
   - **Databases**: MongoDB, PostgreSQL

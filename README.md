@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - **Development**
-  - **Languages**: Python, Java, C++
+  - **Languages**: Shell, C++, Java, Python
   - **Frameworks**:
     - **Frontend**: UX/UI, ReactJS, NextJS, Flutter
     - **Backend**: Spring Boot, FastAPI
@@ -29,6 +29,7 @@
   - **Databases**: MongoDB, PostgreSQL
 - **Security**
   - **Tools**: namp, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
+  - **OSINT Tools**: netlas, maltego 
   - **Report**
 - **Computer Networking**
   - **Basic Computer Network from CCNA**

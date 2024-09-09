@@ -31,7 +31,7 @@
   - **Report**
 - **Computer Networking**
   - **Basic Computer Network from CCNA**
-  - **Network for interprise from CCNA**
+  - **Network for Enterprise from CCNA**
 
 
 ## 📫 Get in Touch

@@ -22,8 +22,8 @@
     - **Frontend**: UX/UI, ReactJS, NextJS, Flutter
     - **Backend**: Spring Boot, FastAPI
   - **Deployment Tools**: Docker, Jenkins, Gradle
-  - **Cloud**: AWS, Google cloud
-  - **Databases**: MongoDB, PostgreSQL
+  - **Cloud**: AWS, Google cloud, Physical Server
+  - **Databases**: MongoDB, PostgreSQL, MS SQL Server
 - **Security**
   - **Tools**: nmap, SonarQube, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
   - **OSINT Tools**: netlas, maltego

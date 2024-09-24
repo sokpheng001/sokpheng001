@@ -21,11 +21,11 @@
   - **Frameworks**:
     - **Frontend**: UX/UI, ReactJS, NextJS, Flutter
     - **Backend**: Spring Boot, FastAPI
-  - **Deployment Tools**: Docker, Jenkins, SonarQube, Gradle
+  - **Deployment Tools**: Docker, Jenkins, Gradle
   - **Cloud**: AWS, Google cloud
   - **Databases**: MongoDB, PostgreSQL
 - **Security**
-  - **Tools**: nmap, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
+  - **Tools**: nmap, SonarQube, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
   - **OSINT Tools**: netlas, maltego
   - **OWASP TOP 10**
   - **Report**

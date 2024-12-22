@@ -47,7 +47,3 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/NestJS_Logo.svg" alt="nestjs" width="40" height="40"/>
 </a>
-<!-- Added CCNA Certificate logo here -->
-<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/ccna.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/CCNA_logo.svg" alt="ccna" width="40" height="40"/>
-</a>

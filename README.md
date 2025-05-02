@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- **Development**
+- **Web Development Skill**
   - **Languages**: Shell, C++, Java, Python
   - **Frameworks**:
     - **Frontend**: UX/UI, ReactJS, NextJS, Flutter
@@ -26,12 +26,12 @@
   - **Deployment Tools**: Docker, Jenkins, Gradle
   - **Cloud**: AWS, Google cloud, Physical Server
   - **Databases**: MongoDB, PostgreSQL, MS SQL Server
-- **Security**
+- **Security Integration Development Skill**
   - **Tools**: nmap, SonarQube, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
   - **OSINT Tools**: netlas, maltego, Shodan
   - **OWASP TOP 10**
   - **Report**
-- **Computer Networking**
+- **Computer Networking for Business**
   - **Basic Computer Network from CCNA**
   - **Network for Enterprise from CCNA**
 

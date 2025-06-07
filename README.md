@@ -30,7 +30,7 @@
   - **Tools**: nmap, SonarQube, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
   - **OSINT Tools**: netlas, maltego, Shodan
   - **OWASP TOP 10**
-  - **Report**
+  - **Security Report**
 - **Computer Networking for Business**
   - **Basic Computer Network from CCNA**
   - **Network for Enterprise from CCNA**

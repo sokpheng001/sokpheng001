@@ -24,14 +24,12 @@
   - **Deployment Tools**: Docker, Jenkins, Gradle
   - **Cloud**: AWS, Google cloud, Physical Server
   - **Databases**: MongoDB, PostgreSQL, MS SQL Server
-- **Security Integration Development Skill**
-  - **Tools**: nmap, SonarQube, msfconsole, msfvenom, niko, burp suite, etterrcap, proxychains, etc
-  - **OSINT Tools**: netlas, maltego, Shodan
-  - **OWASP TOP 10**
-  - **Security Report**
-- **Computer Networking for Business**
-  - **Basic Computer Network from CCNA**
-  - **Network for Enterprise from CCNA**
+- **Cybersecurity Skill**
+  - Web Penetration Testing
+  - Security Report
+  - Computer Networking for Business
+    - Basic Computer Network from CCNA
+    - Network for Enterprise from CCNA
 
 
 ## 📫 Get in Touch

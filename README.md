@@ -1,5 +1,5 @@
 <h1>Development Stack</h1>
-## 🛠 Skills, Technologies Details & Cybersecurity Stack
+🛠 Skills, Technologies Details & Cybersecurity Stack
 
 - **Fullstack Web Development**
   - **Languages**: Shell, C++, Java, Python

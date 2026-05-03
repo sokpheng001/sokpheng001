@@ -4,7 +4,8 @@
 - **Fullstack Web Development**
   - **Languages**: Shell, C++, Java, Python
 - **Cybersecurity Skill**
-  - Web Penetration Testing
+  - Web App Penetration Testing
+  - Malware Research and Development
   - Security Report
   - Computer Networking for Business
     - Basic Computer Network from CCNA

@@ -2,7 +2,7 @@
 🛠 Skills, Technologies Details & Cybersecurity Stack
 
 - **Fullstack Web Development**
-  - **Languages**: Shell, C++, Java, Python
+  - **Languages**: Shell, C/C++, Java, Python
 - **Cybersecurity Skill**
   - Web App Penetration Testing
   - Malware Research and Development
